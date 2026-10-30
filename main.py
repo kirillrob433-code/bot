@@ -49,7 +49,7 @@ law_agg = {
     "Юр высоты": "https://olimpiada.ru/activity/5864",
     "В мир права": "https://olimpiada.ru/activity/5726",
     "СПбГУ": "https://olimpiada.ru/activity/447",
-    "КФУ": "https://olimpiada.ru/activity/203",
+    "КФУ": "https://olimpiada.ru/activity/5611",
     "Толстовская": "https://olimpiada.ru/activity/5768"
 }
 
